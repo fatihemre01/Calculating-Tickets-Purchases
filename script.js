@@ -1,7 +1,7 @@
 /*
 I create a class that can handle ticket purchases and cancellations for planes.
-We can use it to buy or cancel tickets. 
-Afterwards we can calculate the empty seats accordingly.
+It can be used to buy or cancel tickets. 
+Afterwards it can calculate the empty seats accordingly.
 */
 
 
@@ -55,3 +55,8 @@ console.log(plane1.buyTicket(80))
 
 //Calling "cancelTicket()" function to cancel certain amount of ticket
 console.log(plane1.cancelTicket(30))
+
+
+/*
+Finished!
+*/
